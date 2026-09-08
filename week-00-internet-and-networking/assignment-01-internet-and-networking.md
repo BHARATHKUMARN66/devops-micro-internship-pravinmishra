@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other. I also understood that protocols make communication predictable and organized, similar to how people follow common rules when communicating.
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world visits EpicReads, their request travels through the Internet to the web server hosted in Finland. The data is divided into small units called packets, and packet switching allows these packets to travel through different network paths before reaching the destination. The server is identified using an IP address, which acts like a numerical address for the computer. TCP/IP provides the basic communication rules that allow the user's device and the EpicReads server to exchange data reliably across networks. When the user accesses the website, the browser communicates with the server using HTTP or, more securely, HTTPS. The server then sends the requested webpage back to the user's device through the Internet.
+
 
 ---
 
@@ -102,18 +103,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js
+* HTML, CSS and JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* SpringBoot
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
+
 
 ---
 
@@ -142,7 +144,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names into IP addresses so users do not have to remember numerical addresses. For EpicReads, an A record should be used because it maps the domain name epicreads.com to the IPv4 address 52.172.142.222. When a user enters epicreads.com, DNS can resolve the domain to that IP address, allowing the browser to contact the server. The :3000 part represents the application port and is separate from the DNS A record.
+
 
 ---
 
@@ -235,19 +238,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts such as IP addresses, DNS, HTTP/HTTPS and packet switching relatively easy to understand. Creating the simple two-tier and three-tier architecture diagrams was also straightforward after understanding the difference between the layers.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how different networking concepts work together was initially difficult, especially understanding the relationship between DNS, IP addresses, ports and protocols. Creating the architecture diagrams also required me to think carefully about the role of each application layer.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve my understanding of Linux commands, Git and GitHub, and DevOps workflows. I also want to practice the concepts instead of only learning them theoretically so that I can become more comfortable working with real development and deployment environments.
 
 ---
 

@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Bharathkumar N |
+| **LinkedIn** | [bharathkumar-linkedin](https://www.linkedin.com/in/bharath-kumar-n-8904512a1/) |
+| **Location** | Coimbatore, TamilNadu |
+| **Background** | Cloud, Java FullStack Developer |
+| **Goal** | To Become an Professional Software Engineer |
 
 ---
 
