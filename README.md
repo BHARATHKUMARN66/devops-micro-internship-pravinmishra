@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_dmi-devops-micro-internship-with-agentic-activity-7503404845639344128-dh3z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps | — |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
