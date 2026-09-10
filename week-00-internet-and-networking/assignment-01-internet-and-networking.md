@@ -221,16 +221,35 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_dmi-devops-micro-internship-with-agentic-activity-7503404845639344128-dh3z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+Week 0 of my DevOps Micro Internship - Cohort 3
+ I’ve completed my Week 0 learning tasks and started building my foundations in Internet, Networking, and DevOps concepts.
+ChatGPT
+ I learned how networking protocols work and how they provide rules that allow devices to communicate. I also explored how AI can be used as a learning assistant to simplify technical concepts.
+Internet & Networking
+ I learned about packet switching, IP addresses, TCP/IP, and HTTP/HTTPS, and how these concepts work together when users access a website hosted on a server.
+App Architecture
+ I explored the difference between two-tier and three-tier application architectures:
+Two-Tier:
+Frontend → Database
+Three-Tier:
+Frontend → Backend → Database
+I also identified common technologies such as React.js, Node.js, Express.js, PostgreSQL, and MySQL.
+DNS
+ I learned how DNS translates human-readable domain names into IP addresses and understood how an A record can map a domain such as epicreads.com to an IPv4 address.
+VS Code Setup
+ I configured my VS Code environment, opened the integrated terminal, and practiced basic command-line usage using the dir command.
+ This week helped me understand the basic building blocks behind how applications communicate over the Internet and how different application layers work together.
+Looking forward to learning more about Linux, Git, cloud, CI/CD, containers, and other DevOps practices in the upcoming weeks. 
+hashtag#DevOps hashtag#DevOpsJourney hashtag#DMI hashtag#Networking hashtag#CloudComputing hashtag#LearningInPublic hashtag#TechLearning
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI - Cohort 3 - by Pravin Mishra. My graded progress is public: https://lnkd.in/gEyq8nJb · Start your DevOps journey: https://lnkd.in/gaQit8z2
 
-Add your post content here...
 
 ---
 
