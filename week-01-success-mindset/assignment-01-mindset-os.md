@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that having a high academic score alone is not enough to build a successful career in technology. Many people around me believe that getting good marks and completing a degree are the main indicators of career success. I believe that practical skills, consistency, problem-solving ability, and the ability to prove what I can actually build are equally important. In technology, knowledge becomes valuable when I can apply it to real problems, build projects, learn from failures, and continuously improve. A strong career is not built by studying only for examinations; it is built through continuous learning, practical experience, discipline, and the ability to adapt to changing technologies.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice produces better results than relying on last-minute preparation.
 
 ### Evidence from my life
 
-Add your answer here...
+During my technical learning and preparation, I found that studying consistently helped me understand concepts more clearly than trying to learn everything at once. When I practiced regularly, especially while learning problem-solving and programming concepts, I was able to remember concepts better and approach problems with more confidence. This showed me that consistency is more effective for me than depending on last-minute effort.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Practical implementation exposes gaps in my knowledge that theoretical learning alone does not reveal.
 
 ### Evidence from my life
 
-Add your answer here...
+While working on cybersecurity and software projects, I noticed that understanding a concept theoretically was different from actually implementing it. Building features, debugging errors, connecting different components, and testing the application exposed problems that I would not have noticed by simply reading about the technology. This made practical project work an important part of my learning process.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a large goal into smaller tasks makes it easier for me to make consistent progress.
 
 ### Evidence from my life
 
-Add your answer here...
+I have worked on multiple technical learning goals and projects where trying to complete everything at once became difficult to manage. When I divided the work into smaller tasks, such as learning one concept, implementing one feature, testing it, and then moving to the next task, the work became more manageable. I was able to track my progress more clearly and complete tasks with less confusion.
 
 ---
 
@@ -135,13 +135,30 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+## My 2.0 Version
+
+Three to seven years from now, Bharathkumar had built a strong career at the intersection of cybersecurity, DevOps, and cloud technologies. He had started his professional journey with a strong foundation in cybersecurity and gradually expanded his skills into DevOps, cloud security, automation, and security operations. Instead of depending only on academic qualifications, he had continuously focused on building practical skills and creating proof of his abilities through real projects.
+
+He had worked on several practical cybersecurity projects involving threat intelligence, security monitoring, incident detection, log analysis, automation, and security controls. One of his important projects had evolved into an asset-centric threat intelligence platform that connected organizational assets, security controls, threat intelligence, log analysis, correlation, and automated security actions. Through this experience, he had learned how to design systems that solved practical security problems rather than building projects only for academic purposes.
+
+His GitHub profile had become a portfolio of his technical growth. It contained well-documented cybersecurity, DevOps, cloud, and automation projects with proper README files, architecture diagrams, implementation details, and deployment instructions. He had also published technical articles explaining concepts he had learned and problems he had solved. These projects and articles had helped demonstrate his skills to recruiters and other professionals.
+
+He had strengthened his technical foundation by gaining practical experience with Linux, networking, Python, Git, Docker, CI/CD, cloud platforms, databases, monitoring tools, and security technologies. He had also completed relevant certifications and used them as supporting evidence of his knowledge while continuing to prioritize hands-on experience.
+
+Professionally, he had taken responsibility for real-world tasks instead of limiting himself to assigned work. He had participated in projects, collaborated with team members, investigated technical issues, documented solutions, and contributed ideas for improving security and development processes. Over time, he had developed stronger communication, problem-solving, leadership, and decision-making skills.
+
+He had also contributed to the technical community by sharing useful learning resources, writing technical posts, helping other beginners, and participating in developer and cybersecurity communities. His progress had become visible through his portfolio, GitHub contributions, certifications, published work, and professional experience.
+
+Most importantly, his 2.0 version had not been created by one major achievement. It had been built through years of consistent learning, experimentation, failure, improvement, and execution. He had developed the discipline to keep learning even when there was no immediate reward. He had learned to focus on creating measurable proof of his skills rather than simply collecting knowledge.
+
+Looking back at his earlier stage, he could clearly see the difference. He had started as a student who was exploring cybersecurity and DevOps, but through consistent execution he had become a professional capable of learning new technologies, solving real problems, building useful systems, and contributing meaningfully to the organizations and communities he worked with.
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6
 
 ---
 
@@ -173,7 +190,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+There have been situations where I took a shortcut instead of putting in the amount of effort I originally planned. Even when the shortcut helped me finish the task faster, I felt that I could have done better if I had followed the proper process. The main emotions I experienced were guilt and regret because I knew that completing something quickly was not always the same as doing it properly. It also made me realize that shortcuts can sometimes create additional stress because I have to worry about the quality of my work. This experience taught me to value honesty, consistency, and proper effort, especially when the work is important for my learning or career.
 
 ---
 
@@ -199,16 +216,19 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+## Book List
+
+1. Atomic Habits - James Clear
+2. Deep Work — Cal Newport
+3. The Psychology of Money — Morgan Housel
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. How to Win Friends and Influence People — Dale Carnegie
+6. The Almanack of Naval Ravikant — Eric Jorgenson
+7. So Good They Can't Ignore You — Cal Newport
+8. Essentialism: The Disciplined Pursuit of Less — Greg McKeown
+9. The Lean Startup — Eric Ries
+10. Start With Why — Simon Sinek
+
 
 ---
 
@@ -237,16 +257,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Technical skills practiced
+* DSA/problem-solving practice
+* Projects completed and shipped
+* GitHub contributions and activity
+* Certifications and courses completed
+* Deep-work sessions per week
+* Time spent on social media and other distractions
+* Sleep hours and overall energy
+* Monthly spending, savings, and financial progress
 
 ---
 
@@ -272,7 +292,9 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
+
+I completed a private brain dump by writing down my current tasks, responsibilities, learning goals, career plans, pending work, project ideas, concerns, and other things that were occupying my mind. This helped me organize my thoughts and identify the areas that require regular attention.
 
 ---
 
@@ -290,7 +312,25 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Friday:
+
+Spend dedicated time on technical learning and skill development.
+Practice programming and problem-solving regularly.
+Work on DMI tasks and maintain proper documentation.
+Spend focused time developing or improving technical projects.
+
+Saturday:
+
+Complete the main DMI learning and assignment work.
+Work on cybersecurity, DevOps, or cloud-related projects.
+Update GitHub documentation and project progress.
+
+Sunday:
+
+Review the week's progress.
+Complete unfinished tasks.
+Plan the upcoming week's priorities.
+Review learning progress and identify areas that need improvement.
 
 ---
 
@@ -298,11 +338,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I will primarily work on DMI tasks on Saturday and Sunday from 7:00 PM to 9:00 PM. I will also use additional weekday sessions when an assignment or important task requires more time.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4–5 focused sessions per week.
 
 ---
 
@@ -316,7 +356,15 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away or on silent mode during focused study sessions.
+Avoid social media during DMI and technical learning sessions.
+Use Do Not Disturb mode during deep-work periods.
+Keep only the applications and browser tabs required for the current task open.
+Avoid switching between multiple tasks unnecessarily.
+Complete important work before spending time on entertainment.
+Set a clear objective before starting each study session.
+Take short breaks between long focus sessions instead of checking social media continuously.
+Review my progress at the end of each week and adjust my schedule when necessary.
 
 ---
 
@@ -324,28 +372,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The biggest insight I got about myself is that I make better progress when I have a clear system instead of depending only on motivation. I realized that I have several goals related to cybersecurity, DevOps, projects, learning, and career development, but managing all of them requires proper planning and consistency. I also understood that practical work and measurable proof are important for turning knowledge into real skills.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is that I sometimes try to work on multiple goals at the same time and can lose focus on the most important task. I also noticed that distractions and postponing tasks can reduce my consistency. Instead of waiting until I feel motivated, I need to follow a fixed routine and complete important tasks step by step.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+From this week, I will follow a focused learning system where I spend 7:00 PM to 8:00 PM on weekdays on technical learning or DMI work. During this time, I will keep my phone away, avoid social media, and work on only one clearly defined task. At the end of each week, I will review what I completed and plan the priorities for the following week.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://lnkd.in/p/g826VmzP
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/g826VmzP 
+- Blog / Medium : https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6
 
 ---
 
