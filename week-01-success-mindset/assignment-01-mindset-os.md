@@ -386,13 +386,13 @@ From this week, I will follow a focused learning system where I spend 7:00 PM to
 
 Paste your LinkedIn post link here:
 
-https://lnkd.in/p/g826VmzP
+https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_devops-dmi-dmi2026-share-7505990084987629568-gLp-/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://lnkd.in/p/g826VmzP 
+- LinkedIn Post URL: https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_devops-dmi-dmi2026-share-7505990084987629568-gLp-/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps 
 - Blog / Medium : https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6
 
 ---

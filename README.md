@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_dmi-devops-micro-internship-with-agentic-activity-7503404845639344128-dh3z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps |https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6 |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/g826VmzP | https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6 |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/bharath-kumar-n-8904512a1_devops-dmi-dmi2026-share-7505990084987629568-gLp-/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEjb4KwB780pogNIooyhLzaQmVW-3QZufps | https://medium.com/@bharathkumarnatarajan6/my-2-0-version-from-cybersecurity-student-to-security-development-devops-professional-b1dd59a5f0ed?sharedUserId=bharathkumarnatarajan6 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
